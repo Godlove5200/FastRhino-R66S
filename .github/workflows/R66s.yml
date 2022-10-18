@@ -31,7 +31,7 @@ jobs:
       env:
         WHOAMI: deng
         OPENWRT_ARMVIRT: openwrt-armvirt/*.tar.gz
-        PACKAGE_SOC: s905d
+        PACKAGE_SOC: r66s
        # KERNEL_AUTO_LATEST: false
        # KERNEL_REPO_URL: https://github.com/quanjindeng/Actions_OpenWrt-Amlogic/tree/main/kernel
         KERNEL_REPO_URL: https://github.com/ophub/kernel/tree/main/pub/stable
